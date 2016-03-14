@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GameOfLife" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\GameOfLife" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\GameOfLife" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cpp\Cell.cpp" />
+		<Unit filename="cpp\Controller.cpp" />
+		<Unit filename="cpp\Conways.cpp" />
+		<Unit filename="cpp\GameBoard.cpp" />
+		<Unit filename="cpp\GameOfLife.cpp" />
+		<Unit filename="cpp\HighLife.cpp" />
+		<Unit filename="cpp\Main.cpp" />
+		<Unit filename="cpp\Makefile" />
+		<Unit filename="cpp\Statistics.cpp" />
+		<Unit filename="cpp\Strategy.cpp" />
+		<Unit filename="cpp\Visual.cpp" />
+		<Unit filename="include\Cell.h" />
+		<Unit filename="include\Controller.h" />
+		<Unit filename="include\Conways.h" />
+		<Unit filename="include\GameBoard.h" />
+		<Unit filename="include\GameOfLife.h" />
+		<Unit filename="include\GameOfLifeTest.h" />
+		<Unit filename="include\HighLife.h" />
+		<Unit filename="include\Statistics.h" />
+		<Unit filename="include\Strategy.h" />
+		<Unit filename="include\Visual.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

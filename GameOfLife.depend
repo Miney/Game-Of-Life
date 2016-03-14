@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1306673419 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\gameboard.cpp
+	<iostream>
+	"../include/GameBoard.h"
+
+1361338107 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\gameboard.h
+	<string>
+	"GameOfLife.h"
+
+1361443465 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\gameoflife.h
+	"Statistics.h"
+	"Cell.h"
+	"../include/Visual.h"
+	<vector>
+	<list>
+
+1361395161 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\statistics.h
+
+1361440541 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\gameoflife.cpp
+	<iostream>
+	<list>
+	"../include/GameOfLife.h"
+
+1361342055 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\controller.cpp
+	<iostream>
+	"../include/Controller.h"
+
+1361341909 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\controller.h
+	"GameOfLife.h"
+	"GameBoard.h"
+
+1361292107 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\main.cpp
+	"../include/GameOfLife.h"
+	"../include/GameBoard.h"
+	"../include/Controller.h"
+
+1361440655 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\statistics.cpp
+	<iostream>
+	"../include/Statistics.h"
+
+1361245179 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\subject.cpp
+	"Subject.h"
+
+1361245167 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\subject.h
+	"Observer.h"
+	<list>
+
+1361243972 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\observer.h
+
+1361246357 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\cell.h
+
+1361246534 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\cell.cpp
+	"../include/Cell.h"
+
+1361388873 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\observer.h
+
+1361392838 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\subject.h
+	<vector>
+
+1361342049 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\visual.cpp
+	"../include/Visual.h"
+
+1361341391 c:\users\yasmin\desktop\poo-2012 -2\gameoflife\include\visual.h
+	<iostream>
+	<string>
+	<cstdio>
+
+1361386844 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife\cpp\subject.cpp
+	"../include/Subject.h"
+
+1361342055 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\controller.cpp
+	<iostream>
+	"../include/Controller.h"
+
+1361341909 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\controller.h
+	"GameOfLife.h"
+	"GameBoard.h"
+
+1361567686 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\gameoflife.h
+	"Statistics.h"
+	"Cell.h"
+	"../include/Visual.h"
+	"../include/Conways.h"
+	<vector>
+	<list>
+
+1361395161 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\statistics.h
+
+1361246357 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\cell.h
+
+1361341391 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\visual.h
+	<iostream>
+	<string>
+	<cstdio>
+
+1361338107 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\gameboard.h
+	<string>
+	"GameOfLife.h"
+
+1306673419 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\gameboard.cpp
+	<iostream>
+	"../include/GameBoard.h"
+
+1361577299 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\gameoflife.cpp
+	<iostream>
+	<list>
+	"../include/GameOfLife.h"
+
+1361292107 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\main.cpp
+	"../include/GameOfLife.h"
+	"../include/GameBoard.h"
+	"../include/Controller.h"
+
+1361440655 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\statistics.cpp
+	<iostream>
+	"../include/Statistics.h"
+
+1361342049 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\visual.cpp
+	"../include/Visual.h"
+
+1361246534 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\cell.cpp
+	"../include/Cell.h"
+
+1361566757 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\strategy.cpp
+	"Strategy.h"
+
+1361567229 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\strategy.h
+	<vector>
+
+1361567362 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\conways.cpp
+	"Conways.h"
+
+1361567156 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\conways.h
+	"Strategy.h"
+
+1361574221 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\conways.h
+	"Strategy.h"
+
+1361574203 c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\include\strategy.h
+	<vector>
+
+1361577176 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\conways.cpp
+	"../include/Conways.h"
+	<iostream>
+
+1361577251 source:c:\users\yasmin\desktop\poo-2012 -2\gameoflife_funcional\gameoflife\cpp\strategy.cpp
+	"../include/Strategy.h"
+	<iostream>
+
+1361246534 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\cell.cpp
+	"../include/Cell.h"
+
+1361246357 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\cell.h
+
+1361818881 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\controller.cpp
+	<iostream>
+	"../include/Controller.h"
+
+1361818705 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\controller.h
+	"GameOfLife.h"
+	"GameBoard.h"
+
+1361818549 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\gameoflife.h
+	"Statistics.h"
+	"Cell.h"
+	"../include/Visual.h"
+	"../include/Strategy.h"
+	<vector>
+	<list>
+
+1361395161 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\statistics.h
+
+1361818835 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\visual.h
+	<iostream>
+	<string>
+	<cstdio>
+
+1361817833 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\conways.h
+
+1361818320 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\strategy.h
+	<vector>
+
+1361338107 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\gameboard.h
+	<string>
+	"GameOfLife.h"
+
+1361817972 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\conways.cpp
+	"../include/Strategy.h"
+	<iostream>
+
+1306673419 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\gameboard.cpp
+	<iostream>
+	"../include/GameBoard.h"
+
+1361818644 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\gameoflife.cpp
+	<iostream>
+	<list>
+	"../include/GameOfLife.h"
+
+1361292107 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\main.cpp
+	"../include/GameOfLife.h"
+	"../include/GameBoard.h"
+	"../include/Controller.h"
+
+1361440655 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\statistics.cpp
+	<iostream>
+	"../include/Statistics.h"
+
+1361817359 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\strategy.cpp
+	"../include/Strategy.h"
+
+1361818939 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\visual.cpp
+	"../include/Visual.h"
+
+1361817716 c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\include\highlife.h
+	"Strategy.h"
+
+1361819184 source:c:\users\yasmin\desktop\poo\gameoflife_funcional\gameoflife\cpp\highlife.cpp
+	"../include/Strategy.h"
+
